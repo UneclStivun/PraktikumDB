@@ -1,0 +1,2 @@
+# PraktikumDB
+university project 
